@@ -1,15 +1,15 @@
-# 👨‍🏫 USER GUIDE: Panduan Lengkap SIBIMA untuk Dosen
-**Sistem Informasi Bimbingan Skripsi & Manajemen Akademik (SIBIMA)**
+# Panduan Singkat Penggunaan SIBIMA untuk Dosen
+**Sistem Informasi Bimbingan Mahasiswa (SIBIMA)**
 *Fakultas Ilmu Komputer - Universitas Subang*
 
 ---
 
-## 📌 Pengantar
+## Pengantar
 Selamat datang di **SIBIMA**! Aplikasi ini dirancang untuk memudahkan **Dosen Pembimbing** dan **Dosen Penguji** dalam memantau progress bimbingan mahasiswa, mengelola logbook, memberikan persetujuan (ACC), melakukan penilaian seminar/sidang, hingga memvalidasi revisi secara digital dan terintegrasi.
 
 ---
 
-## 🎭 Peran Dosen di SIBIMA
+## Peran Dosen di SIBIMA
 
 Dalam sistem SIBIMA, Dosen memiliki 2 fungsi utama:
 1. **Dosen Pembimbing (P1 / P2):** Berfokus pada pengarahan materi skripsi, verifikasi logbook, serta pemberian indikator kelayakan (ACC UP dan ACC Sidang).
@@ -17,8 +17,7 @@ Dalam sistem SIBIMA, Dosen memiliki 2 fungsi utama:
 
 ---
 
-## 🚀 Alur Kerja Dosen di SIBIMA
-
+## Alur Dosen di SIBIMA
 ```mermaid
 flowchart TD
     A["1. Upload Tanda Tangan Digital"] --> B["2. Monitoring Mahasiswa Bimbingan"]
@@ -31,12 +30,12 @@ flowchart TD
     H --> I["9. Validasi Revisi Sidang dan Berita Acara"]
 ```
 
-> 📍 **Ringkasan Alur Cepat:**  
-> **1. Upload TTD Digital** ➔ **2. Monitoring & Validasi Logbook** ➔ **3. Berikan ACC Seminar UP** ➔ **4. Input Nilai & Revisi UP** ➔ **5. Validasi Revisi UP** ➔ **6. Berikan ACC Sidang Akhir** ➔ **7. Input Nilai & Revisi Sidang** ➔ **8. Validasi Revisi & Cetak Berita Acara**
+> **Ringkasan Alur Cepat:**  
+> **1. Upload TTD Digital** ➔ **2. Monitoring & Validasi Logbook** ➔ **3. Berikan ACC Seminar UP** ➔ **4. Input Revisi UP** ➔ **5. Validasi Revisi UP** ➔ **6. Berikan ACC Sidang Akhir** ➔ **7. Input Nilai & Revisi Sidang** ➔ **8. Validasi Revisi & Cetak Berita Acara**
 
 ---
 
-## 📖 Step-by-Step Panduan Penggunaan untuk Dosen
+## Step-by-Step Panduan Penggunaan untuk Dosen
 
 ### 1️⃣ Persiapan Wajib: Pengaturan Tanda Tangan Digital
 Tanda tangan digital sangat penting karena akan otomatis tersemat pada **Lembar Bimbingan**, **Formulir Pendaftaran**, dan **Berita Acara**.
@@ -115,7 +114,7 @@ Tanda tangan digital sangat penting karena akan otomatis tersemat pada **Lembar 
 
 ---
 
-## ❓ FAQ & Tips untuk Dosen
+## FAQ & Tips untuk Dosen
 
 > **Q: Mengapa mahasiswa bimbingan saya tidak bisa mendaftar Seminar UP padahal naskah sudah siap?**  
 > *A: Mohon periksa halaman Detail Skripsi mahasiswa tersebut di SIBIMA, lalu pastikan sakelar **ACC Seminar UP** sudah kamu aktifkan (berwarna hijau).*
