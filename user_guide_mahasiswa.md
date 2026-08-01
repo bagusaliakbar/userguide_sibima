@@ -1,15 +1,15 @@
-# 🎓 USER GUIDE: Panduan Lengkap SIBIMA untuk Mahasiswa
+# USER GUIDE: Panduan Lengkap SIBIMA untuk Mahasiswa
 **Sistem Informasi Bimbingan Skripsi & Manajemen Akademik (SIBIMA)**
 *Fakultas Ilmu Komputer - Universitas Subang*
 
 ---
 
-## 📌 Pengantar
+## Pengantar
 Selamat datang di **SIBIMA**! Aplikasi ini dirancang untuk mempermudah dan mempercepat seluruh alur penyelesaian Skripsi/Tugas Akhir mahasiswa FASILKOM Universitas Subang, mulai dari pengajuan judul, bimbingan berkala, pendaftaran seminar usulan penelitian (UP), hingga pelaksanaan dan penyelesaian revisi sidang akhir.
 
 ---
 
-## 🚀 Alur Utama Penyelesaian Skripsi di SIBIMA
+## Alur Utama Penyelesaian Skripsi di SIBIMA
 
 ```mermaid
 flowchart TD
@@ -23,12 +23,12 @@ flowchart TD
     H --> I["9. Kelulusan dan Bebas Pustaka"]
 ```
 
-> 📍 **Ringkasan Alur Cepat:**  
+> **Ringkasan Alur Cepat:**  
 > **1. Pengajuan Judul** ➔ **2. Bimbingan & Logbook** ➔ **3. ACC Seminar UP** ➔ **4. Daftar Seminar UP** ➔ **5. Ujian & Revisi UP** ➔ **6. ACC Sidang Akhir** ➔ **7. Daftar Sidang Akhir** ➔ **8. Ujian & Revisi Sidang** ➔ **9. Lulus & Bebas Pustaka**
 
 ---
 
-## 📖 Step-by-Step Panduan Penggunaan
+## Step-by-Step Panduan Penggunaan
 
 ### 1️⃣ Persiapan Awal & Pengaturan Profil
 Sebelum mengajukan judul, pastikan data profil kamu sudah lengkap dan valid.
@@ -133,7 +133,7 @@ Setelah selesai melaksanakan Seminar UP:
 
 ---
 
-## ❓ FAQ & Tips untuk Mahasiswa
+## FAQ & Tips untuk Mahasiswa
 
 > **Q: Kenapa judul saya ditolak atau AI Checker menunjukkan angka 80% kemiripan?**  
 > *A: Coba periksa kata kunci objek penelitianmu. Tambahkan nama instansi/lokasi atau spesifikasi metode yang unik agar judul lebih berkarakter.*
