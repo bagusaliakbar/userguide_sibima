@@ -1,5 +1,5 @@
-# USER GUIDE: Panduan Lengkap SIBIMA untuk Mahasiswa
-**Sistem Informasi Bimbingan Skripsi & Manajemen Akademik (SIBIMA)**
+# Panduan Singkat Penggunaan SIBIMA untuk Mahasiswa
+**Sistem Informasi Bimbingan Mahasiswa (SIBIMA)**
 *Fakultas Ilmu Komputer - Universitas Subang*
 
 ---
