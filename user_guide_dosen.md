@@ -1,4 +1,4 @@
-# Panduan Singkat Penggunaan SIBIMA untuk Dosen
+# Panduan Singkat Penggunaan SIBIMA untuk Dosen v1
 **Sistem Informasi Bimbingan Mahasiswa (SIBIMA)**
 *Fakultas Ilmu Komputer - Universitas Subang*
 
