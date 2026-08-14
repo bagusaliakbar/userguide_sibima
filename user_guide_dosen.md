@@ -38,10 +38,10 @@ flowchart TD
 ## Step-by-Step Panduan Penggunaan untuk Dosen
 
 ### 1️⃣ Persiapan Wajib: Pengaturan Tanda Tangan Digital
-Tanda tangan digital sangat penting karena akan otomatis tersemat pada **Lembar Bimbingan**, **Formulir Pendaftaran**, dan **Berita Acara**.
+Tanda tangan digital sangat penting karena akan otomatis tersemat pada **Kartu/Logbook Bimbingan**, dan **Berita Acara**.
 1. Login ke **SIBIMA** menggunakan Akun Dosen.
 2. Klik nama/foto profil di sudut kanan atas ➔ pilih **Profil**.
-3. Pada bagian **Tanda Tangan Digital**, unggah gambar Tanda Tangan kamu (format PNG/JPG, disarankan tulisan hitam jelas dengan background transparan/putih).
+3. Pada bagian **Tanda Tangan Digital**, unggah gambar Tanda Tangan (format PNG/JPG, disarankan tulisan hitam jelas dengan background transparan/putih).
 4. Klik **Simpan Tanda Tangan**.
 
 ---
@@ -49,21 +49,21 @@ Tanda tangan digital sangat penting karena akan otomatis tersemat pada **Lembar 
 ### 2️⃣ Tugas Dosen Pembimbing (Monitoring & Bimbingan)
 
 #### A. Melihat Daftar Mahasiswa Bimbingan (Workload)
-1. Buka menu **Data Skripsi** di sidebar.
-2. Filter status ke **Skripsi Aktif** untuk melihat seluruh mahasiswa bimbingan kamu (baik sebagai Pembimbing 1 maupun Pembimbing 2).
-3. Kamu dapat memantau bab/tahap terkini mahasiswa (*Bimbingan UP*, *Lulus UP*, atau *Siap Sidang*).
+1. Buka menu **Mahasiswa Bimbingan** di sidebar.
+2. Filter status ke **Bimbingan Aktif** untuk melihat seluruh mahasiswa bimbingan (baik sebagai Pembimbing 1 maupun Pembimbing 2).
+3. Bapak/Ibu dapat memantau bab/tahap terkini mahasiswa (Sudah Seminar/Sidang).
 
-#### B. Memeriksa & Mengonfirmasi Logbook Bimbingan
-1. Klik nama mahasiswa / tombol **Detail** pada tabel skripsi.
-2. Gulir ke bawah pada bagian **Riwayat Logbook Bimbingan**.
-3. Periksa catatan materi yang diinput oleh mahasiswa.
-4. Klik tombol **Setujui / Validasi Logbook** untuk mengonfirmasi bahwa sesi bimbingan tersebut sah.
+#### B. Membuat Jadwal Bimbingan
+1. Klik menu **Jadwal Bimbingan**. Klik tombol **Tambah Jadwal**
+2. Pilih Mahasiswa, jika memilih satu mahasiswa maka jadwal hanya dibuat untuk satu mahasiswa saja, jika memilih semua bimbingan mahasiswa maka akan membuat jadwal bimbingan untuk seluruh mahasiswa bimbingan.
+3. Atur tanggal, waktU, topik pembahasan dan tipe bimbingan (Online/Offline).
+4. Klik tombol **Simpan Jadwal**.
 
 #### C. Memberikan ACC Seminar UP & ACC Sidang Akhir
-1. Buka halaman **Detail Skripsi** mahasiswa yang bersangkutan.
+1. Buka halaman **Jadwal Bimbingan**.
 2. Pada bagian atas (Card Status Kelayakan), terdapat 2 tombol sakelar (*Toggle Status*):
-   - 🟢 **ACC Seminar UP:** Klik sakelar untuk mengubah status dari *Belum ACC* menjadi *Disetujui UP*. *(Mahasiswa baru bisa mendaftar Seminar UP jika P1 & P2 sudah meng-ACC)*.
-   - 🟢 **ACC Sidang Akhir:** Klik sakelar untuk mengubah status dari *Belum ACC* menjadi *Disetujui Sidang*. *(Mahasiswa baru bisa mendaftar Sidang Akhir jika P1 & P2 sudah meng-ACC)*.
+   - 🟢 **ACC Seminar UP:** Klik sakelar untuk mengubah status. *(Mahasiswa baru bisa mendaftar Seminar UP jika P1 & P2 sudah meng-ACC)*.
+   - 🟢 **ACC Sidang Akhir:** Klik sakelar untuk mengubah status. *(Mahasiswa baru bisa mendaftar Sidang Akhir jika P1 & P2 sudah meng-ACC)*.
 
 #### D. Komunikasi Interaktif via Chat
 1. Buka menu **Chat** di sidebar kiri.
@@ -71,46 +71,27 @@ Tanda tangan digital sangat penting karena akan otomatis tersemat pada **Lembar 
 
 ---
 
-### 3️⃣ Tugas Dosen Penguji Seminar UP (Usulan Penelitian)
+### 3️⃣ Tugas Dosen Penguji Seminar UP (Usulan Penelitian) dan Sidang Akhir
 
-#### A. Memeriksa Jadwal Seminar UP
-1. Buka menu **Penguji Seminar UP** di sidebar.
-2. Kamu dapat melihat daftar mahasiswa yang diuji, tanggal/jam seminar, ruangan, serta draft proposal PDF mahasiswa.
+#### A. Memeriksa Jadwal Seminar UP / Sidang Akhir
+1. Buka menu **Jadwal Seminar / Jadwal Sidang** di sidebar.
+2. Bapak/ibu dapat melihat daftar mahasiswa yang diuji, tanggal/jam seminar, ruangan.
 
-#### B. Penginputan Nilai Seminar UP
-1. Pada hari H seminar, klik tombol **Input Nilai / Grading** di baris nama mahasiswa.
-2. Isi nilai komponen evaluasi (Presentasi, Penguasaan Materi, Metodologi, dan Kualitas Proposal).
-3. Sistem akan menghitung akumulasi nilai rata-rata secara otomatis.
+#### B. Menginput Catatan Poin Revisi Seminar UP
+1. Di menu **Penguji Seminar**, klik tombol **Lihat Revisi** di baris nama mahasiswa.
+2. Masukkan poin-poin perbaikan yang wajib dikerjakan oleh mahasiswa (misal: *Perbaiki bab 2 terkait sitasi jurnal*, *Perjelas diagram use case*). jika ada dokumen yang direvisi bisa dilampirkan melalui link Google Drive.
+3. Klik **Kirim Catatan Revisi**.
+   
+#### C. Penginputan Revisi dan Nilai Sidang UP
+1. Pada hari H sidang, klik tombol **Input Nilai** di baris nama mahasiswa.
+2. Isi nilai komponen evaluasi (Presentasi, Kemampuan Menjelaskan Naskah Skripsi, Penulisan Naskah Skripsi).
+3. Sistem akan menghitung akumulasi nilai akhir secara otomatis.
 4. Klik **Simpan Penilaian**.
 
-#### C. Menginput Catatan Poin Revisi UP
-1. Di halaman detail ujian mahasiswa, masuk ke bagian **Catatan Revisi Penguji**.
-2. Masukkan poin-poin perbaikan yang wajib dikerjakan oleh mahasiswa (misal: *Perbaiki bab 2 terkait sitasi jurnal*, *Perjelas diagram use case*).
-3. Klik **Kirim Catatan Revisi**.
-
-#### D. Validasi & Approval Revisi UP
-1. Setelah mahasiswa mengunggah perbaikan, buka kembali menu **Penguji Seminar UP** ➔ pilih mahasiswa.
+#### D. Validasi & Approval Revisi UP/Sidang
+1. Setelah mahasiswa mengunggah perbaikan, buka kembali menu **Penguji Seminar/Sidang** ➔ pilih mahasiswa.
 2. Periksa penjelasan balasan dan file proposal perbaikan dari mahasiswa.
-3. Jika perbaikan sudah sesuai, klik **Approve Revisi**. Tanda tangan digital kamu akan otomatis dibubuhkan pada Lembar Pengesahan Revisi mahasiswa.
-
----
-
-### 4️⃣ Tugas Dosen Penguji Sidang Akhir Skripsi
-
-#### A. Memeriksa Jadwal Sidang Akhir
-1. Buka menu **Penguji Sidang Skripsi** di sidebar.
-2. Pelajari berkas lengkap naskah skripsi final, artikel jurnal, dan kelengkapan mahasiswa.
-
-#### B. Penginputan Nilai Sidang Akhir
-1. Klik tombol **Penilaian Sidang**.
-2. Masukkan nilai bobot per kriteria (Sikap/Presentasi, Penguasaan Naskah Skripsi, Tanya Jawab Komprehensif, & Produk/Aplikasi).
-3. Klik **Simpan Nilai Akhir**.
-
-#### C. Catatan Revisi & Persetujuan Akhir (Berita Acara)
-1. Input poin-poin revisi naskah akhir pada kolom revisi sidang.
-2. Setelah mahasiswa mengirimkan perbaikan naskah final, periksa dan klik **Persetujuan Akhir (Approve)** atau gunakan tombol **Direct Approval** jika revisi diselesaikan langsung di tempat.
-3. Setelah seluruh penguji meng-ACC revisi:
-   - Klik **Export Berita Acara Sidang (PDF)** untuk mengunduh dokumen resmi hasil keputusan sidang yang telah dilengkapi tanda tangan digital seluruh penguji dan QR Code verifikasi.
+3. Jika perbaikan sudah sesuai, klik **Approve Revisi**. 
 
 ---
 
